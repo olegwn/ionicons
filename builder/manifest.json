@@ -1,5 +1,5 @@
 {
-  "build_hash": "a2c6f31123a3cc8385d45bf46c5dde82",
+  "build_hash": "93980f5ae8e5472da7534a3984297dd6",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2739,6 +2739,14 @@
     {
       "code": "0xf244",
       "name": "social-vimeo-outline"
+    },
+    {
+      "code": "0xf138",
+      "name": "social-vkontakte-en"
+    },
+    {
+      "code": "0xf13b",
+      "name": "social-vkontakte-ru"
     },
     {
       "code": "0xf4f0",
