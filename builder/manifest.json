@@ -1,5 +1,5 @@
 {
-  "build_hash": "93980f5ae8e5472da7534a3984297dd6",
+  "build_hash": "104108a91415725c81e996aced4244e1",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -633,6 +633,10 @@
       "name": "at"
     },
     {
+      "code": "0xf146",
+      "name": "back-dater-dark"
+    },
+    {
       "code": "0xf3bf",
       "name": "backspace"
     },
@@ -877,6 +881,10 @@
       "name": "email"
     },
     {
+      "code": "0xf13c",
+      "name": "email-dater"
+    },
+    {
       "code": "0xf3c3",
       "name": "email-unread"
     },
@@ -899,6 +907,10 @@
     {
       "code": "0xf278",
       "name": "female"
+    },
+    {
+      "code": "0xf14c",
+      "name": "female-dater"
     },
     {
       "code": "0xf134",
@@ -2193,6 +2205,10 @@
       "name": "male"
     },
     {
+      "code": "0xf14d",
+      "name": "male-dater"
+    },
+    {
       "code": "0xf202",
       "name": "man"
     },
@@ -2559,6 +2575,10 @@
     {
       "code": "0xf230",
       "name": "social-facebook-outline"
+    },
+    {
+      "code": "0xf145",
+      "name": "social-fb-dater"
     },
     {
       "code": "0xf34d",
