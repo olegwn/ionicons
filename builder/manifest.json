@@ -1,5 +1,5 @@
 {
-  "build_hash": "104108a91415725c81e996aced4244e1",
+  "build_hash": "b335dfd312f4a04c0ebeb48738409df7",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -839,6 +839,42 @@
     {
       "code": "0xf318",
       "name": "cube"
+    },
+    {
+      "code": "0xf14e",
+      "name": "dater-addphoto-icon"
+    },
+    {
+      "code": "0xf14f",
+      "name": "dater-back-icon-dark"
+    },
+    {
+      "code": "0xf150",
+      "name": "dater-dislike-con"
+    },
+    {
+      "code": "0xf151",
+      "name": "dater-email-icon"
+    },
+    {
+      "code": "0xf152",
+      "name": "dater-fb-icon"
+    },
+    {
+      "code": "0xf153",
+      "name": "dater-female-icon"
+    },
+    {
+      "code": "0xf154",
+      "name": "dater-like-icon"
+    },
+    {
+      "code": "0xf155",
+      "name": "dater-male-icon"
+    },
+    {
+      "code": "0xf156",
+      "name": "dater-mess-icon"
     },
     {
       "code": "0xf12d",
