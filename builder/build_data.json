@@ -1,5 +1,5 @@
 {
-  "build_hash": "104108a91415725c81e996aced4244e1",
+  "build_hash": "b335dfd312f4a04c0ebeb48738409df7",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -841,40 +841,136 @@
       "name": "cube"
     },
     {
+      "code": "0xf157",
+      "name": "dater-about"
+    },
+    {
+      "code": "0xf158",
+      "name": "dater-addphoto"
+    },
+    {
       "code": "0xf14e",
       "name": "dater-addphoto-icon"
+    },
+    {
+      "code": "0xf159",
+      "name": "dater-back-dark"
     },
     {
       "code": "0xf14f",
       "name": "dater-back-icon-dark"
     },
     {
+      "code": "0xf15a",
+      "name": "dater-block"
+    },
+    {
+      "code": "0xf15b",
+      "name": "dater-dates"
+    },
+    {
+      "code": "0xf15d",
+      "name": "dater-dislike"
+    },
+    {
+      "code": "0xf15c",
+      "name": "dater-dislike-2"
+    },
+    {
       "code": "0xf150",
       "name": "dater-dislike-con"
+    },
+    {
+      "code": "0xf15e",
+      "name": "dater-email"
     },
     {
       "code": "0xf151",
       "name": "dater-email-icon"
     },
     {
+      "code": "0xf15f",
+      "name": "dater-fb"
+    },
+    {
       "code": "0xf152",
       "name": "dater-fb-icon"
+    },
+    {
+      "code": "0xf160",
+      "name": "dater-feedback"
+    },
+    {
+      "code": "0xf161",
+      "name": "dater-female"
     },
     {
       "code": "0xf153",
       "name": "dater-female-icon"
     },
     {
+      "code": "0xf163",
+      "name": "dater-like"
+    },
+    {
+      "code": "0xf162",
+      "name": "dater-like-2"
+    },
+    {
       "code": "0xf154",
       "name": "dater-like-icon"
+    },
+    {
+      "code": "0xf164",
+      "name": "dater-location"
+    },
+    {
+      "code": "0xf165",
+      "name": "dater-male"
     },
     {
       "code": "0xf155",
       "name": "dater-male-icon"
     },
     {
+      "code": "0xf166",
+      "name": "dater-mess"
+    },
+    {
       "code": "0xf156",
       "name": "dater-mess-icon"
+    },
+    {
+      "code": "0xf167",
+      "name": "dater-message"
+    },
+    {
+      "code": "0xf168",
+      "name": "dater-my-meetings"
+    },
+    {
+      "code": "0xf169",
+      "name": "dater-photo"
+    },
+    {
+      "code": "0xf16a",
+      "name": "dater-radar"
+    },
+    {
+      "code": "0xf16b",
+      "name": "dater-refresh"
+    },
+    {
+      "code": "0xf16c",
+      "name": "dater-settings"
+    },
+    {
+      "code": "0xf16d",
+      "name": "dater-sidebar"
+    },
+    {
+      "code": "0xf16e",
+      "name": "dater-time"
     },
     {
       "code": "0xf12d",
