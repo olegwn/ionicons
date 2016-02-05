@@ -1,5 +1,5 @@
 {
-  "build_hash": "31f1601ade47dcaafa0a13d8bd218196",
+  "build_hash": "ef8a831d75578c120539671f98a50634",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -889,6 +889,10 @@
       "name": "dater-email-icon"
     },
     {
+      "code": "0xf16f",
+      "name": "dater-famale-block"
+    },
+    {
       "code": "0xf15f",
       "name": "dater-fb"
     },
@@ -905,8 +909,16 @@
       "name": "dater-female"
     },
     {
+      "code": "0xf173",
+      "name": "dater-female-block"
+    },
+    {
       "code": "0xf153",
       "name": "dater-female-icon"
+    },
+    {
+      "code": "0xf170",
+      "name": "dater-female-nophoto"
     },
     {
       "code": "0xf163",
@@ -929,8 +941,16 @@
       "name": "dater-male"
     },
     {
+      "code": "0xf171",
+      "name": "dater-male-block"
+    },
+    {
       "code": "0xf155",
       "name": "dater-male-icon"
+    },
+    {
+      "code": "0xf172",
+      "name": "dater-male-nophoto"
     },
     {
       "code": "0xf166",
