@@ -1,5 +1,5 @@
 {
-  "build_hash": "314c48cf63b8dcb0ff1d3a565401c8cc",
+  "build_hash": "ef8a831d75578c120539671f98a50634",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -889,6 +889,10 @@
       "name": "dater-email-icon"
     },
     {
+      "code": "0xf16f",
+      "name": "dater-famale-block"
+    },
+    {
       "code": "0xf15f",
       "name": "dater-fb"
     },
@@ -983,6 +987,18 @@
     {
       "code": "0xf16d",
       "name": "dater-sidebar"
+    },
+    {
+      "code": "0xf174",
+      "name": "dater-swipe-left"
+    },
+    {
+      "code": "0xf175",
+      "name": "dater-swipe-right"
+    },
+    {
+      "code": "0xf176",
+      "name": "dater-tap"
     },
     {
       "code": "0xf16e",
