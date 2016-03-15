@@ -2,6 +2,11 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}dater-number:before,
+.#{$ionicons-prefix}dater-fb2:before,
+.#{$ionicons-prefix}dater-name-icon:before,
+.#{$ionicons-prefix}dater-sex-icon:before,
+.#{$ionicons-prefix}dater-sms-icon:before,
 .#{$ionicons-prefix}alert:before,
 .#{$ionicons-prefix}alert-circled:before,
 .#{$ionicons-prefix}android-add:before,
@@ -786,6 +791,11 @@
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}dater-number:before { content: $ionicon-var-dater-number; }
+.#{$ionicons-prefix}dater-fb2:before { content: $ionicon-var-dater-fb2; }
+.#{$ionicons-prefix}dater-name-icon:before { content: $ionicon-var-dater-name-icon; }
+.#{$ionicons-prefix}dater-sex-icon:before { content: $ionicon-var-dater-sex-icon; }
+.#{$ionicons-prefix}dater-sms-icon:before { content: $ionicon-var-dater-sms-icon; }
 .#{$ionicons-prefix}alert:before { content: $ionicon-var-alert; }
 .#{$ionicons-prefix}alert-circled:before { content: $ionicon-var-alert-circled; }
 .#{$ionicons-prefix}android-add:before { content: $ionicon-var-android-add; }
