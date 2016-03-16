@@ -22,6 +22,8 @@
   font-weight: normal;
   font-style: normal; }
 .ion, .ionicons,
+.ion-dater-birth-icon:before,
+.ion-dater-blocked-date-icon:before,
 .ion-dater-number:before,
 .ion-dater-fb2:before,
 .ion-dater-name-icon:before,
@@ -819,6 +821,12 @@
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
+
+.ion-dater-birth-icon:before {
+  content: ""; }
+
+.ion-dater-blocked-date-icon:before {
+  content: ""; }
 
 .ion-dater-number:before {
   content: ""; }
