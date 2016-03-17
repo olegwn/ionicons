@@ -22,6 +22,8 @@
   font-weight: normal;
   font-style: normal; }
 .ion, .ionicons,
+.ion-dater-delay-icon:before,
+.ion-dater-block:before,
 .ion-dater-birth-icon:before,
 .ion-dater-blocked-date-icon:before,
 .ion-dater-number:before,
@@ -243,7 +245,6 @@
 .ion-dater-addphoto-icon:before,
 .ion-dater-back-dark:before,
 .ion-dater-back-icon-dark:before,
-.ion-dater-block:before,
 .ion-dater-dates:before,
 .ion-dater-dislike:before,
 .ion-dater-dislike-2:before,
@@ -821,6 +822,12 @@
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
+
+.ion-dater-delay-icon:before {
+  content: ""; }
+
+.ion-dater-block:before {
+  content: ""; }
 
 .ion-dater-birth-icon:before {
   content: ""; }

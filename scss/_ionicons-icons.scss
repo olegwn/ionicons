@@ -2,6 +2,8 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}dater-delay-icon:before,
+.#{$ionicons-prefix}dater-block:before,
 .#{$ionicons-prefix}dater-birth-icon:before,
 .#{$ionicons-prefix}dater-blocked-date-icon:before,
 .#{$ionicons-prefix}dater-number:before,
@@ -793,6 +795,8 @@
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}dater-delay-icon:before { content: $ionicon-var-dater-delay-icon; }
+.#{$ionicons-prefix}dater-block:before { content: $ionicon-var-dater-block; }
 .#{$ionicons-prefix}dater-birth-icon:before { content: $ionicon-var-dater-birth-icon; }
 .#{$ionicons-prefix}dater-blocked-date-icon:before { content: $ionicon-var-dater-blocked-date-icon; }
 .#{$ionicons-prefix}dater-number:before { content: $ionicon-var-dater-number; }
