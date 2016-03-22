@@ -2,6 +2,10 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}dater-female-nophoto:before,
+.#{$ionicons-prefix}dater-male-nophoto:before,
+.#{$ionicons-prefix}dater-male-block:before,
+.#{$ionicons-prefix}dater-female-block:before,
 .#{$ionicons-prefix}dater-complaint-icon:before,
 .#{$ionicons-prefix}dater-block2:before,
 .#{$ionicons-prefix}dates-icon:before,
@@ -799,6 +803,10 @@
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}dater-female-noph:before { content: $ionicon-var-dater-female-nophoto; }
+.#{$ionicons-prefix}dater-male-nophot:before { content: $ionicon-var-dater-male-nophoto; }
+.#{$ionicons-prefix}dater-male-block:before { content: $ionicon-var-dater-male-block; }
+.#{$ionicons-prefix}dater-female-block:before { content: $ionicon-var-dater-female-block; }
 .#{$ionicons-prefix}dater-complaint-icon:before { content: $ionicon-var-dater-complaint-icon; }
 .#{$ionicons-prefix}dater-block2:before { content: $ionicon-var-dater-block2; }
 .#{$ionicons-prefix}dates-icon:before { content: $ionicon-var-dates-icon; }
