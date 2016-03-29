@@ -2,7 +2,7 @@
 // --------------------------
 
 .ionicons,
-.#{$ionicons-prefix}dater-photo:before,
+.#{$ionicons-prefix}dater-sent-icon:before,
 .#{$ionicons-prefix}dater-female-nophoto:before,
 .#{$ionicons-prefix}dater-male-nophoto:before,
 .#{$ionicons-prefix}dater-male-block:before,
@@ -10,8 +10,8 @@
 .#{$ionicons-prefix}dater-complaint-icon:before,
 .#{$ionicons-prefix}dater-block2:before,
 .#{$ionicons-prefix}dates-icon:before,
-.#{$ionicons-prefix}dater-previous-icon:before,
-.#{$ionicons-prefix}dater-deny-icon:before,
+.#{$ionicons-prefix}dater-back-icon:before,
+.#{$ionicons-prefix}dater-delay-icon:before,
 .#{$ionicons-prefix}dater-block:before,
 .#{$ionicons-prefix}dater-birth-icon:before,
 .#{$ionicons-prefix}dater-blocked-date-icon:before,
@@ -177,6 +177,7 @@
 .#{$ionicons-prefix}arrow-up-c:before,
 .#{$ionicons-prefix}asterisk:before,
 .#{$ionicons-prefix}at:before,
+.#{$ionicons-prefix}back-dater-dark:before,
 .#{$ionicons-prefix}backspace:before,
 .#{$ionicons-prefix}backspace-outline:before,
 .#{$ionicons-prefix}bag:before,
@@ -230,22 +231,34 @@
 .#{$ionicons-prefix}cube:before,
 .#{$ionicons-prefix}dater-about:before,
 .#{$ionicons-prefix}dater-addphoto:before,
+.#{$ionicons-prefix}dater-addphoto-icon:before,
 .#{$ionicons-prefix}dater-back-dark:before,
+.#{$ionicons-prefix}dater-back-icon-dark:before,
+.#{$ionicons-prefix}dater-block:before,
+.#{$ionicons-prefix}dater-dates:before,
 .#{$ionicons-prefix}dater-dislike:before,
 .#{$ionicons-prefix}dater-dislike-2:before,
+.#{$ionicons-prefix}dater-dislike-con:before,
 .#{$ionicons-prefix}dater-email:before,
+.#{$ionicons-prefix}dater-email-icon:before,
 .#{$ionicons-prefix}dater-famale-block:before,
+.#{$ionicons-prefix}dater-fb:before,
+.#{$ionicons-prefix}dater-fb-icon:before,
 .#{$ionicons-prefix}dater-feedback:before,
 .#{$ionicons-prefix}dater-female:before,
 .#{$ionicons-prefix}dater-female-block:before,
+.#{$ionicons-prefix}dater-female-icon:before,
 .#{$ionicons-prefix}dater-female-nophoto:before,
 .#{$ionicons-prefix}dater-like:before,
 .#{$ionicons-prefix}dater-like-2:before,
+.#{$ionicons-prefix}dater-like-icon:before,
 .#{$ionicons-prefix}dater-location:before,
 .#{$ionicons-prefix}dater-male:before,
 .#{$ionicons-prefix}dater-male-block:before,
+.#{$ionicons-prefix}dater-male-icon:before,
 .#{$ionicons-prefix}dater-male-nophoto:before,
 .#{$ionicons-prefix}dater-mess:before,
+.#{$ionicons-prefix}dater-mess-icon:before,
 .#{$ionicons-prefix}dater-message:before,
 .#{$ionicons-prefix}dater-my-meetings:before,
 .#{$ionicons-prefix}dater-photo:before,
@@ -598,6 +611,7 @@
 .#{$ionicons-prefix}loop:before,
 .#{$ionicons-prefix}magnet:before,
 .#{$ionicons-prefix}male:before,
+.#{$ionicons-prefix}male-dater:before,
 .#{$ionicons-prefix}man:before,
 .#{$ionicons-prefix}map:before,
 .#{$ionicons-prefix}medkit:before,
@@ -690,6 +704,7 @@
 .#{$ionicons-prefix}social-euro-outline:before,
 .#{$ionicons-prefix}social-facebook:before,
 .#{$ionicons-prefix}social-facebook-outline:before,
+.#{$ionicons-prefix}social-fb-dater:before,
 .#{$ionicons-prefix}social-foursquare:before,
 .#{$ionicons-prefix}social-foursquare-outline:before,
 .#{$ionicons-prefix}social-freebsd-devil:before,
@@ -789,7 +804,7 @@
 {
   @extend .ion;
 }
-.#{$ionicons-prefix}dater-photo:before { content: $ionicon-var-dater-photo; }
+.#{$ionicons-prefix}dater-sent-icon:before { content: $ionicon-var-dater-sent-icon; }
 .#{$ionicons-prefix}dater-female-noph:before { content: $ionicon-var-dater-female-nophoto; }
 .#{$ionicons-prefix}dater-male-nophot:before { content: $ionicon-var-dater-male-nophoto; }
 .#{$ionicons-prefix}dater-male-block:before { content: $ionicon-var-dater-male-block; }
@@ -797,8 +812,8 @@
 .#{$ionicons-prefix}dater-complaint-icon:before { content: $ionicon-var-dater-complaint-icon; }
 .#{$ionicons-prefix}dater-block2:before { content: $ionicon-var-dater-block2; }
 .#{$ionicons-prefix}dates-icon:before { content: $ionicon-var-dates-icon; }
-.#{$ionicons-prefix}dater-previous-icon:before { content: $ionicon-var-dater-previous-icon; }
-.#{$ionicons-prefix}dater-deny-icon:before { content: $ionicon-var-dater-deny-icon; }
+.#{$ionicons-prefix}dater-back-icon:before { content: $ionicon-var-dater-back-icon; }
+.#{$ionicons-prefix}dater-delay-icon:before { content: $ionicon-var-dater-delay-icon; }
 .#{$ionicons-prefix}dater-block:before { content: $ionicon-var-dater-block; }
 .#{$ionicons-prefix}dater-birth-icon:before { content: $ionicon-var-dater-birth-icon; }
 .#{$ionicons-prefix}dater-blocked-date-icon:before { content: $ionicon-var-dater-blocked-date-icon; }
@@ -964,6 +979,7 @@
 .#{$ionicons-prefix}arrow-up-c:before { content: $ionicon-var-arrow-up-c; }
 .#{$ionicons-prefix}asterisk:before { content: $ionicon-var-asterisk; }
 .#{$ionicons-prefix}at:before { content: $ionicon-var-at; }
+.#{$ionicons-prefix}back-dater-dark:before { content: $ionicon-var-back-dater-dark; }
 .#{$ionicons-prefix}backspace:before { content: $ionicon-var-backspace; }
 .#{$ionicons-prefix}backspace-outline:before { content: $ionicon-var-backspace-outline; }
 .#{$ionicons-prefix}bag:before { content: $ionicon-var-bag; }
@@ -1017,22 +1033,34 @@
 .#{$ionicons-prefix}cube:before { content: $ionicon-var-cube; }
 .#{$ionicons-prefix}dater-about:before { content: $ionicon-var-dater-about; }
 .#{$ionicons-prefix}dater-addphoto:before { content: $ionicon-var-dater-addphoto; }
+.#{$ionicons-prefix}dater-addphoto-icon:before { content: $ionicon-var-dater-addphoto-icon; }
 .#{$ionicons-prefix}dater-back-dark:before { content: $ionicon-var-dater-back-dark; }
+.#{$ionicons-prefix}dater-back-icon-dark:before { content: $ionicon-var-dater-back-icon-dark; }
+.#{$ionicons-prefix}dater-block:before { content: $ionicon-var-dater-block; }
+.#{$ionicons-prefix}dater-dates:before { content: $ionicon-var-dater-dates; }
 .#{$ionicons-prefix}dater-dislike:before { content: $ionicon-var-dater-dislike; }
 .#{$ionicons-prefix}dater-dislike-2:before { content: $ionicon-var-dater-dislike-2; }
+.#{$ionicons-prefix}dater-dislike-con:before { content: $ionicon-var-dater-dislike-con; }
 .#{$ionicons-prefix}dater-email:before { content: $ionicon-var-dater-email; }
+.#{$ionicons-prefix}dater-email-icon:before { content: $ionicon-var-dater-email-icon; }
 .#{$ionicons-prefix}dater-famale-block:before { content: $ionicon-var-dater-famale-block; }
+.#{$ionicons-prefix}dater-fb:before { content: $ionicon-var-dater-fb; }
+.#{$ionicons-prefix}dater-fb-icon:before { content: $ionicon-var-dater-fb-icon; }
 .#{$ionicons-prefix}dater-feedback:before { content: $ionicon-var-dater-feedback; }
 .#{$ionicons-prefix}dater-female:before { content: $ionicon-var-dater-female; }
 .#{$ionicons-prefix}dater-female-block:before { content: $ionicon-var-dater-female-block; }
+.#{$ionicons-prefix}dater-female-icon:before { content: $ionicon-var-dater-female-icon; }
 .#{$ionicons-prefix}dater-female-nophoto:before { content: $ionicon-var-dater-female-nophoto; }
 .#{$ionicons-prefix}dater-like:before { content: $ionicon-var-dater-like; }
 .#{$ionicons-prefix}dater-like-2:before { content: $ionicon-var-dater-like-2; }
+.#{$ionicons-prefix}dater-like-icon:before { content: $ionicon-var-dater-like-icon; }
 .#{$ionicons-prefix}dater-location:before { content: $ionicon-var-dater-location; }
 .#{$ionicons-prefix}dater-male:before { content: $ionicon-var-dater-male; }
 .#{$ionicons-prefix}dater-male-block:before { content: $ionicon-var-dater-male-block; }
+.#{$ionicons-prefix}dater-male-icon:before { content: $ionicon-var-dater-male-icon; }
 .#{$ionicons-prefix}dater-male-nophoto:before { content: $ionicon-var-dater-male-nophoto; }
 .#{$ionicons-prefix}dater-mess:before { content: $ionicon-var-dater-mess; }
+.#{$ionicons-prefix}dater-mess-icon:before { content: $ionicon-var-dater-mess-icon; }
 .#{$ionicons-prefix}dater-message:before { content: $ionicon-var-dater-message; }
 .#{$ionicons-prefix}dater-my-meetings:before { content: $ionicon-var-dater-my-meetings; }
 .#{$ionicons-prefix}dater-photo:before { content: $ionicon-var-dater-photo; }
@@ -1385,6 +1413,7 @@
 .#{$ionicons-prefix}loop:before { content: $ionicon-var-loop; }
 .#{$ionicons-prefix}magnet:before { content: $ionicon-var-magnet; }
 .#{$ionicons-prefix}male:before { content: $ionicon-var-male; }
+.#{$ionicons-prefix}male-dater:before { content: $ionicon-var-male-dater; }
 .#{$ionicons-prefix}man:before { content: $ionicon-var-man; }
 .#{$ionicons-prefix}map:before { content: $ionicon-var-map; }
 .#{$ionicons-prefix}medkit:before { content: $ionicon-var-medkit; }
@@ -1477,6 +1506,7 @@
 .#{$ionicons-prefix}social-euro-outline:before { content: $ionicon-var-social-euro-outline; }
 .#{$ionicons-prefix}social-facebook:before { content: $ionicon-var-social-facebook; }
 .#{$ionicons-prefix}social-facebook-outline:before { content: $ionicon-var-social-facebook-outline; }
+.#{$ionicons-prefix}social-fb-dater:before { content: $ionicon-var-social-fb-dater; }
 .#{$ionicons-prefix}social-foursquare:before { content: $ionicon-var-social-foursquare; }
 .#{$ionicons-prefix}social-foursquare-outline:before { content: $ionicon-var-social-foursquare-outline; }
 .#{$ionicons-prefix}social-freebsd-devil:before { content: $ionicon-var-social-freebsd-devil; }
