@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'icomoon';
-    src:    url('fonts/icomoon.eot?s2xdey');
-    src:    url('fonts/icomoon.eot?s2xdey#iefix') format('embedded-opentype'),
-        url('fonts/icomoon.ttf?s2xdey') format('truetype'),
-        url('fonts/icomoon.woff?s2xdey') format('woff'),
-        url('fonts/icomoon.svg?s2xdey#icomoon') format('svg');
+    src:    url('fonts/icomoon.eot?oxt94g');
+    src:    url('fonts/icomoon.eot?oxt94g#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?oxt94g') format('truetype'),
+        url('fonts/icomoon.woff?oxt94g') format('woff'),
+        url('fonts/icomoon.svg?oxt94g#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,6 +24,18 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-dater-approved-icon:before {
+    content: "\ec24";
+}
+.icon-dater-pending-icon:before {
+    content: "\ec25";
+}
+.icon-dater-rejected-icon:before {
+    content: "\ec22";
+}
+.icon-dater-moderator-icon2:before {
+    content: "\ec23";
+}
 .icon-dater-sent-icon:before {
     content: "\e913";
 }
