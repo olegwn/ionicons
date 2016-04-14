@@ -2,6 +2,9 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}mess_icon:before,
+.#{$ionicons-prefix}dislike_icon2:before,
+.#{$ionicons-prefix}like_icon2:before,
 .#{$ionicons-prefix}dater-pending-icon:before,
 .#{$ionicons-prefix}dater-approved-icon:before,
 .#{$ionicons-prefix}dater-moderator-icon2:before,
@@ -808,6 +811,9 @@
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}mess_icon:before { content: $ionicon-var-mess_icon; }
+.#{$ionicons-prefix}dislike_icon2:before { content: $ionicon-var-dislike_icon2; }
+.#{$ionicons-prefix}like_icon2:before { content: $ionicon-var-like_icon2; }
 .#{$ionicons-prefix}dater-pending-icon:before { content: $ionicon-var-dater-pending-icon; }
 .#{$ionicons-prefix}dater-approved-icon:before { content: $ionicon-var-dater-approved-icon; }
 .#{$ionicons-prefix}dater-moderator-icon2:before { content: $ionicon-var-dater-moderator-icon2; }
