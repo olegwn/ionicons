@@ -2,6 +2,8 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}dater-male-profile-icon:before,
+.#{$ionicons-prefix}dater-female-profile-icon:before,
 .#{$ionicons-prefix}mess_icon:before,
 .#{$ionicons-prefix}dislike_icon2:before,
 .#{$ionicons-prefix}like_icon2:before,
@@ -811,6 +813,8 @@
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}dater-male-profile-icon:before { content: $ionicon-var-dater-male-profile-icon; }
+.#{$ionicons-prefix}dater-female-profile-icon:before { content: $ionicon-var-dater-female-profile-icon; }
 .#{$ionicons-prefix}mess_icon:before { content: $ionicon-var-mess_icon; }
 .#{$ionicons-prefix}dislike_icon2:before { content: $ionicon-var-dislike_icon2; }
 .#{$ionicons-prefix}like_icon2:before { content: $ionicon-var-like_icon2; }
