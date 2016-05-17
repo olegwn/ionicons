@@ -2,6 +2,7 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}dater-photo-icon2:before,
 .#{$ionicons-prefix}dater-ignor-icon:before,
 .#{$ionicons-prefix}block_icon:before,
 .#{$ionicons-prefix}dater-male-profile-icon:before,
@@ -815,6 +816,7 @@
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}dater-photo-icon2:before { content: $ionicon-var-dater-photo-icon2; }
 .#{$ionicons-prefix}dater-ignor-icon:before { content: $ionicon-var-dater-ignor-icon; }
 .#{$ionicons-prefix}block_icon:before { content: $ionicon-var-block_icon; }
 .#{$ionicons-prefix}dater-male-profile-icon:before { content: $ionicon-var-dater-male-profile-icon; }
