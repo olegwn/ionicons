@@ -2,6 +2,9 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}dater-emptyscreen-likes:before,
+.#{$ionicons-prefix}dater-emptyscreen-mess:before,
+.#{$ionicons-prefix}dater-female-profile:before,
 .#{$ionicons-prefix}dater-photo-icon2:before,
 .#{$ionicons-prefix}dater-ignor-icon:before,
 .#{$ionicons-prefix}block_icon:before,
@@ -816,6 +819,9 @@
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}dater-emptyscreen-likes:before { content: $ionicon-var-dater-emptyscreen-likes; }
+.#{$ionicons-prefix}dater-emptyscreen-mess:before { content: $ionicon-var-dater-emptyscreen-mess; }
+.#{$ionicons-prefix}dater-female-profile:before { content: $ionicon-var-dater-female-profile; }
 .#{$ionicons-prefix}dater-photo-icon2:before { content: $ionicon-var-dater-photo-icon2; }
 .#{$ionicons-prefix}dater-ignor-icon:before { content: $ionicon-var-dater-ignor-icon; }
 .#{$ionicons-prefix}block_icon:before { content: $ionicon-var-block_icon; }
