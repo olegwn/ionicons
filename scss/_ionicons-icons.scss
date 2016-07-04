@@ -2,6 +2,10 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}dater-gentle:before,
+.#{$ionicons-prefix}dater-legasy:before,
+.#{$ionicons-prefix}dater-nosex:before,
+.#{$ionicons-prefix}dater-polite:before,
 .#{$ionicons-prefix}dater-notification-icon2:before,
 .#{$ionicons-prefix}dater-notification-icon1:before,
 .#{$ionicons-prefix}dater-call-cancel:before,
@@ -825,7 +829,10 @@
 {
   @extend .ion;
 }
-
+.#{$ionicons-prefix}dater-gentle:before { content: $ionicon-var-dater-gentle; }
+.#{$ionicons-prefix}dater-legasy:before { content: $ionicon-var-dater-legasy; }
+.#{$ionicons-prefix}dater-nosex:before { content: $ionicon-var-dater-nosex; }
+.#{$ionicons-prefix}dater-polite:before { content: $ionicon-var-dater-polite; }
 .#{$ionicons-prefix}dater-notification-icon2:before { content: $ionicon-var-dater-notification-icon2; }
 .#{$ionicons-prefix}dater-notification-icon1:before { content: $ionicon-var-dater-notification-icon1; }
 .#{$ionicons-prefix}dater-call-cancel:before { content: $ionicon-var-dater-call-cancel; }
