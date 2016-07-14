@@ -2,6 +2,8 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}dater-call-animation:before,
+.#{$ionicons-prefix}dater-call-animation2:before,
 .#{$ionicons-prefix}dater-gentle:before,
 .#{$ionicons-prefix}dater-legasy:before,
 .#{$ionicons-prefix}dater-nosex:before,
@@ -829,6 +831,8 @@
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}dater-call-animation:before { content: $ionicon-var-dater-call-animation; }
+.#{$ionicons-prefix}dater-call-animation2:before { content: $ionicon-var-dater-call-animation2; }
 .#{$ionicons-prefix}dater-gentle:before { content: $ionicon-var-dater-gentle; }
 .#{$ionicons-prefix}dater-legasy:before { content: $ionicon-var-dater-legasy; }
 .#{$ionicons-prefix}dater-nosex:before { content: $ionicon-var-dater-nosex; }
