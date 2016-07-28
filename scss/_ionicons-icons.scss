@@ -2,6 +2,8 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}dater-emptyscreen-likes:before,
+.#{$ionicons-prefix}dater-yes:before,
 .#{$ionicons-prefix}dater-call-animation:before,
 .#{$ionicons-prefix}dater-call-animation2:before,
 .#{$ionicons-prefix}dater-gentle:before,
@@ -831,6 +833,8 @@
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}dater-emptyscreen-likes:before { content: $ionicon-var-dater-emptyscreen-likes; }
+.#{$ionicons-prefix}dater-yes:before { content: $ionicon-var-dater-yes; }
 .#{$ionicons-prefix}dater-call-animation:before { content: $ionicon-var-dater-call-animation; }
 .#{$ionicons-prefix}dater-call-animation2:before { content: $ionicon-var-dater-call-animation2; }
 .#{$ionicons-prefix}dater-gentle:before { content: $ionicon-var-dater-gentle; }
