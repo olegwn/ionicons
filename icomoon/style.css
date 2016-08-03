@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?7j19uu');
-  src:  url('fonts/icomoon.eot?7j19uu#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?7j19uu') format('truetype'),
-    url('fonts/icomoon.woff?7j19uu') format('woff'),
-    url('fonts/icomoon.svg?7j19uu#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?imoyhl');
+  src:  url('fonts/icomoon.eot?imoyhl#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?imoyhl') format('truetype'),
+    url('fonts/icomoon.woff?imoyhl') format('woff'),
+    url('fonts/icomoon.svg?imoyhl#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,28 +24,28 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-dater-emptyscreen-likes-icon:before {
+.icon-dater-emptyscreen-likes:before {
   content: "\ec43";
 }
-.icon-dater-yes-icon:before {
+.icon-dater-yes:before {
   content: "\ec44";
 }
-.icon-dater-call-animation2-icon:before {
+.icon-dater-call-animation2:before {
   content: "\ec41";
 }
-.icon-dater-call-animation-icon:before {
+.icon-dater-call-animation:before {
   content: "\ec42";
 }
-.icon-icons_dater-gentle-icon:before {
+.icon-icons_dater-gentle:before {
   content: "\ec3d";
 }
-.icon-icons_dater-legasy-icon:before {
+.icon-icons_dater-legasy:before {
   content: "\ec3e";
 }
-.icon-icons_dater-nosex-icon:before {
+.icon-icons_dater-nosex:before {
   content: "\ec3f";
 }
-.icon-icons_dater-polite-icon:before {
+.icon-icons_dater-polite:before {
   content: "\ec40";
 }
 .icon-dater-notification-icon2:before {
@@ -78,25 +78,25 @@
   margin-left: -1em;
   color: rgb(35, 31, 32);
 }
-.icon-icons_dater-call-cancel-icon:before {
+.icon-icons_dater-call-cancel:before {
   content: "\ec32";
 }
-.icon-icons_dater-call-icon:before {
+.icon-icons_dater-call:before {
   content: "\ec33";
 }
-.icon-icons_dater-continue-icon:before {
+.icon-icons_dater-continue:before {
   content: "\ec34";
 }
-.icon-icons_dater-match-icon:before {
+.icon-icons_dater-match:before {
   content: "\ec35";
 }
-.icon-icons_dater-emptyscreen-likes-icon:before {
+.icon-icons_dater-emptyscreen-likes:before {
   content: "\ec2f";
 }
-.icon-icons_dater-emptyscreen-mess-icon:before {
+.icon-icons_dater-emptyscreen-mess:before {
   content: "\ec30";
 }
-.icon-icons_dater-female-profile-icon_copy:before {
+.icon-icons_dater-female-profile:before {
   content: "\ec31";
 }
 .icon-dater-photo-icon2:before {
