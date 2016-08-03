@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?imoyhl');
-  src:  url('fonts/icomoon.eot?imoyhl#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?imoyhl') format('truetype'),
-    url('fonts/icomoon.woff?imoyhl') format('woff'),
-    url('fonts/icomoon.svg?imoyhl#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?1y4kug');
+  src:  url('fonts/icomoon.eot?1y4kug#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?1y4kug') format('truetype'),
+    url('fonts/icomoon.woff?1y4kug') format('woff'),
+    url('fonts/icomoon.svg?1y4kug#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -36,16 +36,16 @@
 .icon-dater-call-animation:before {
   content: "\ec42";
 }
-.icon-icons_dater-gentle:before {
+.icon-dater-gentle:before {
   content: "\ec3d";
 }
-.icon-icons_dater-legasy:before {
+.icon-dater-legasy:before {
   content: "\ec3e";
 }
-.icon-icons_dater-nosex:before {
+.icon-dater-nosex:before {
   content: "\ec3f";
 }
-.icon-icons_dater-polite:before {
+.icon-dater-polite:before {
   content: "\ec40";
 }
 .icon-dater-notification-icon2:before {
@@ -78,25 +78,25 @@
   margin-left: -1em;
   color: rgb(35, 31, 32);
 }
-.icon-icons_dater-call-cancel:before {
+.icon-dater-call-cancel:before {
   content: "\ec32";
 }
-.icon-icons_dater-call:before {
+.icon-dater-call:before {
   content: "\ec33";
 }
-.icon-icons_dater-continue:before {
+.icon-dater-continue:before {
   content: "\ec34";
 }
-.icon-icons_dater-match:before {
+.icon-dater-match:before {
   content: "\ec35";
 }
 .icon-icons_dater-emptyscreen-likes:before {
   content: "\ec2f";
 }
-.icon-icons_dater-emptyscreen-mess:before {
+.icon-dater-emptyscreen-mess:before {
   content: "\ec30";
 }
-.icon-icons_dater-female-profile:before {
+.icon-dater-female-profile:before {
   content: "\ec31";
 }
 .icon-dater-photo-icon2:before {

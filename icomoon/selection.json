@@ -177,7 +177,7 @@
         "id": 53,
         "prevSize": 32,
         "code": 60477,
-        "name": "icons_dater-gentle"
+        "name": "dater-gentle"
       },
       "setIdx": 0,
       "setId": 2,
@@ -215,7 +215,7 @@
         "id": 52,
         "prevSize": 32,
         "code": 60478,
-        "name": "icons_dater-legasy"
+        "name": "dater-legasy"
       },
       "setIdx": 0,
       "setId": 2,
@@ -249,7 +249,7 @@
         "id": 51,
         "prevSize": 32,
         "code": 60479,
-        "name": "icons_dater-nosex"
+        "name": "dater-nosex"
       },
       "setIdx": 0,
       "setId": 2,
@@ -283,7 +283,7 @@
         "id": 50,
         "prevSize": 32,
         "code": 60480,
-        "name": "icons_dater-polite"
+        "name": "dater-polite"
       },
       "setIdx": 0,
       "setId": 2,
@@ -494,7 +494,7 @@
         "id": 46,
         "prevSize": 32,
         "code": 60466,
-        "name": "icons_dater-call-cancel"
+        "name": "dater-call-cancel"
       },
       "setIdx": 0,
       "setId": 2,
@@ -521,7 +521,7 @@
         "id": 45,
         "prevSize": 32,
         "code": 60467,
-        "name": "icons_dater-call"
+        "name": "dater-call"
       },
       "setIdx": 0,
       "setId": 2,
@@ -548,7 +548,7 @@
         "id": 44,
         "prevSize": 32,
         "code": 60468,
-        "name": "icons_dater-continue"
+        "name": "dater-continue"
       },
       "setIdx": 0,
       "setId": 2,
@@ -581,7 +581,7 @@
         "id": 43,
         "prevSize": 32,
         "code": 60469,
-        "name": "icons_dater-match"
+        "name": "dater-match"
       },
       "setIdx": 0,
       "setId": 2,
@@ -640,7 +640,7 @@
         "id": 41,
         "prevSize": 32,
         "code": 60464,
-        "name": "icons_dater-emptyscreen-mess"
+        "name": "dater-emptyscreen-mess"
       },
       "setIdx": 0,
       "setId": 2,
@@ -782,7 +782,7 @@
         "id": 40,
         "prevSize": 32,
         "code": 60465,
-        "name": "icons_dater-female-profile"
+        "name": "dater-female-profile"
       },
       "setIdx": 0,
       "setId": 2,
