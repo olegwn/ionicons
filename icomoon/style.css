@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?walinz');
-  src:  url('fonts/icomoon.eot?walinz#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?walinz') format('truetype'),
-    url('fonts/icomoon.woff?walinz') format('woff'),
-    url('fonts/icomoon.svg?walinz#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?afpg0q');
+  src:  url('fonts/icomoon.eot?afpg0q#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?afpg0q') format('truetype'),
+    url('fonts/icomoon.woff?afpg0q') format('woff'),
+    url('fonts/icomoon.svg?afpg0q#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-dater-lock:before {
+  content: "\ec45";
+}
+.icon-dater-not-accept-calls:before {
+  content: "\ec46";
+}
+.icon-dater-secure-calls:before {
+  content: "\ec47";
+}
+.icon-dater-voice-to-chat:before {
+  content: "\ec48";
+}
 .icon-dater-emptyscreen-likes:before {
   content: "\ec43";
 }
