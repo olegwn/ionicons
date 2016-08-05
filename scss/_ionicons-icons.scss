@@ -2,6 +2,10 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}dater-accept-calls:before,
+.#{$ionicons-prefix}dater-add-phone:before,
+.#{$ionicons-prefix}dater-aim:before,
+.#{$ionicons-prefix}dater-gender-match:before,
 .#{$ionicons-prefix}dater-lock:before,
 .#{$ionicons-prefix}dater-not-accept-calls:before,
 .#{$ionicons-prefix}dater-secure-calls:before,
@@ -837,6 +841,10 @@
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}dater-accept-calls:before { content: $ionicon-var-dater-accept-calls; }
+.#{$ionicons-prefix}dater-add-phone:before { content: $ionicon-var-dater-add-phone; }
+.#{$ionicons-prefix}dater-aim:before { content: $ionicon-var-dater-aim; }
+.#{$ionicons-prefix}dater-gender-match:before { content: $ionicon-var-dater-gender-match; }
 .#{$ionicons-prefix}dater-lock:before { content: $ionicon-var-dater-lock; }
 .#{$ionicons-prefix}dater-not-accept-calls:before { content: $ionicon-var-dater-not-accept-calls; }
 .#{$ionicons-prefix}dater-secure-calls:before { content: $ionicon-var-dater-secure-calls; }
