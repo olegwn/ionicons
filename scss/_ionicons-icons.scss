@@ -2,6 +2,10 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}dater-lock:before,
+.#{$ionicons-prefix}dater-not-accept-calls:before,
+.#{$ionicons-prefix}dater-secure-calls:before,
+.#{$ionicons-prefix}dater-voice-to-chat:before,
 .#{$ionicons-prefix}dater-emptyscreen-saidyes:before,
 .#{$ionicons-prefix}dater-yes:before,
 .#{$ionicons-prefix}dater-call-animation:before,
@@ -833,6 +837,10 @@
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}dater-lock:before { content: $ionicon-var-dater-lock; }
+.#{$ionicons-prefix}dater-not-accept-calls:before { content: $ionicon-var-dater-not-accept-calls; }
+.#{$ionicons-prefix}dater-secure-calls:before { content: $ionicon-var-dater-secure-calls; }
+.#{$ionicons-prefix}dater-voice-to-chat:before { content: $ionicon-var-dater-voice-to-chat; }
 .#{$ionicons-prefix}dater-emptyscreen-saidyes:before { content: $ionicon-var-dater-emptyscreen-saidyes; }
 .#{$ionicons-prefix}dater-yes:before { content: $ionicon-var-dater-yes; }
 .#{$ionicons-prefix}dater-call-animation:before { content: $ionicon-var-dater-call-animation; }
