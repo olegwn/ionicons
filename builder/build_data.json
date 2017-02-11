@@ -1,5 +1,5 @@
 {
-  "build_hash": "a4785c1f4057e5ffe27f304b43bbeee7",
+  "build_hash": "868b957054eab2cd4b785baa08a4bbe9",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -1051,6 +1051,10 @@
     {
       "code": "0xf18d",
       "name": "dater-nosex-icon"
+    },
+    {
+      "code": "0xf192",
+      "name": "dater-notification-bell"
     },
     {
       "code": "0xf18e",
