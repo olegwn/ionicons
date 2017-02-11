@@ -1,5 +1,5 @@
 {
-  "build_hash": "7c551c5ee8cd4bfe1adf7b37a014404c",
+  "build_hash": "4529c7029392e2bd8e3861fe2b44b99f",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -865,6 +865,22 @@
       "name": "dater-block"
     },
     {
+      "code": "0xf179",
+      "name": "dater-block2"
+    },
+    {
+      "code": "0xf17a",
+      "name": "dater-blocked-date-icon"
+    },
+    {
+      "code": "0xf17b",
+      "name": "dater-call-cancel-icon"
+    },
+    {
+      "code": "0xf17c",
+      "name": "dater-continue-icon"
+    },
+    {
       "code": "0xf15b",
       "name": "dater-dates"
     },
@@ -969,6 +985,10 @@
       "name": "dater-my-meetings"
     },
     {
+      "code": "0xf17d",
+      "name": "dater-name-icon"
+    },
+    {
       "code": "0xf169",
       "name": "dater-photo"
     },
@@ -979,6 +999,10 @@
     {
       "code": "0xf16b",
       "name": "dater-refresh"
+    },
+    {
+      "code": "0xf17e",
+      "name": "dater-sent-icon"
     },
     {
       "code": "0xf16c",
