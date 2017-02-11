@@ -1,5 +1,5 @@
 {
-  "build_hash": "432726142c3b142e9f1c3f9314cff21a",
+  "build_hash": "95ede1dea5d6c0d85261991cbe40f47d",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -853,12 +853,24 @@
       "name": "dater-addphoto-icon"
     },
     {
+      "code": "0xf17e",
+      "name": "dater-approved-icon"
+    },
+    {
       "code": "0xf159",
       "name": "dater-back-dark"
     },
     {
+      "code": "0xf17f",
+      "name": "dater-back-icon"
+    },
+    {
       "code": "0xf14f",
       "name": "dater-back-icon-dark"
+    },
+    {
+      "code": "0xf180",
+      "name": "dater-birth-icon"
     },
     {
       "code": "0xf15a",
@@ -873,8 +885,20 @@
       "name": "dater-blocked-date-icon"
     },
     {
+      "code": "0xf181",
+      "name": "dater-browser-icon"
+    },
+    {
       "code": "0xf17b",
       "name": "dater-call-cancel-icon"
+    },
+    {
+      "code": "0xf182",
+      "name": "dater-call-icon"
+    },
+    {
+      "code": "0xf183",
+      "name": "dater-complaint-icon"
     },
     {
       "code": "0xf17c",
@@ -883,6 +907,14 @@
     {
       "code": "0xf15b",
       "name": "dater-dates"
+    },
+    {
+      "code": "0xf184",
+      "name": "dater-delay-icon"
+    },
+    {
+      "code": "0xf185",
+      "name": "dater-device-icon"
     },
     {
       "code": "0xf15d",
@@ -917,6 +949,10 @@
       "name": "dater-fb-icon"
     },
     {
+      "code": "0xf186",
+      "name": "dater-fb2"
+    },
+    {
       "code": "0xf160",
       "name": "dater-feedback"
     },
@@ -935,6 +971,22 @@
     {
       "code": "0xf170",
       "name": "dater-female-nophoto"
+    },
+    {
+      "code": "0xf187",
+      "name": "dater-female-profile-icon"
+    },
+    {
+      "code": "0xf188",
+      "name": "dater-gentle-icon"
+    },
+    {
+      "code": "0xf189",
+      "name": "dater-geo-request"
+    },
+    {
+      "code": "0xf18a",
+      "name": "dater-legasy-icon"
     },
     {
       "code": "0xf163",
@@ -969,6 +1021,10 @@
       "name": "dater-male-nophoto"
     },
     {
+      "code": "0xf18b",
+      "name": "dater-male-profile-icon"
+    },
+    {
       "code": "0xf166",
       "name": "dater-mess"
     },
@@ -981,6 +1037,10 @@
       "name": "dater-message"
     },
     {
+      "code": "0xf18c",
+      "name": "dater-moderator"
+    },
+    {
       "code": "0xf168",
       "name": "dater-my-meetings"
     },
@@ -989,8 +1049,20 @@
       "name": "dater-name-icon"
     },
     {
+      "code": "0xf18d",
+      "name": "dater-nosex-icon"
+    },
+    {
+      "code": "0xf18e",
+      "name": "dater-pending-icon"
+    },
+    {
       "code": "0xf169",
       "name": "dater-photo"
+    },
+    {
+      "code": "0xf18f",
+      "name": "dater-polite-icon"
     },
     {
       "code": "0xf16a",
@@ -1003,6 +1075,10 @@
     {
       "code": "0xf16c",
       "name": "dater-settings"
+    },
+    {
+      "code": "0xf190",
+      "name": "dater-sex-icon"
     },
     {
       "code": "0xf16d",
