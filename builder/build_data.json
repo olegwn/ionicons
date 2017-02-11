@@ -1,5 +1,5 @@
 {
-  "build_hash": "95ede1dea5d6c0d85261991cbe40f47d",
+  "build_hash": "a4785c1f4057e5ffe27f304b43bbeee7",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -1083,6 +1083,10 @@
     {
       "code": "0xf16d",
       "name": "dater-sidebar"
+    },
+    {
+      "code": "0xf191",
+      "name": "dater-silence"
     },
     {
       "code": "0xf174",
