@@ -2,61 +2,6 @@
 // --------------------------
 
 .ionicons,
-.#{$ionicons-prefix}dater-accept-calls:before,
-.#{$ionicons-prefix}dater-add-phone:before,
-.#{$ionicons-prefix}dater-aim:before,
-.#{$ionicons-prefix}dater-gender-match:before,
-.#{$ionicons-prefix}dater-lock:before,
-.#{$ionicons-prefix}dater-not-accept-calls:before,
-.#{$ionicons-prefix}dater-secure-calls:before,
-.#{$ionicons-prefix}dater-voice-to-chat:before,
-.#{$ionicons-prefix}dater-emptyscreen-saidyes:before,
-.#{$ionicons-prefix}dater-yes:before,
-.#{$ionicons-prefix}dater-call-animation:before,
-.#{$ionicons-prefix}dater-call-animation2:before,
-.#{$ionicons-prefix}dater-gentle:before,
-.#{$ionicons-prefix}dater-legasy:before,
-.#{$ionicons-prefix}dater-nosex:before,
-.#{$ionicons-prefix}dater-polite:before,
-.#{$ionicons-prefix}dater-notification-icon2:before,
-.#{$ionicons-prefix}dater-notification-icon1:before,
-.#{$ionicons-prefix}dater-call-cancel:before,
-.#{$ionicons-prefix}dater-call:before,
-.#{$ionicons-prefix}dater-continue:before,
-.#{$ionicons-prefix}dater-match:before,
-.#{$ionicons-prefix}dater-emptyscreen-likes:before,
-.#{$ionicons-prefix}dater-emptyscreen-mess:before,
-.#{$ionicons-prefix}dater-female-profile:before,
-.#{$ionicons-prefix}dater-photo-icon2:before,
-.#{$ionicons-prefix}dater-ignor-icon:before,
-.#{$ionicons-prefix}block_icon:before,
-.#{$ionicons-prefix}dater-male-profile-icon:before,
-.#{$ionicons-prefix}dater-female-profile-icon:before,
-.#{$ionicons-prefix}mess_icon:before,
-.#{$ionicons-prefix}dislike_icon2:before,
-.#{$ionicons-prefix}like_icon2:before,
-.#{$ionicons-prefix}dater-pending-icon:before,
-.#{$ionicons-prefix}dater-approved-icon:before,
-.#{$ionicons-prefix}dater-moderator-icon2:before,
-.#{$ionicons-prefix}dater-rejected-icon:before,
-.#{$ionicons-prefix}dater-sent-icon:before,
-.#{$ionicons-prefix}dater-female-nophoto:before,
-.#{$ionicons-prefix}dater-male-nophoto:before,
-.#{$ionicons-prefix}dater-male-block:before,
-.#{$ionicons-prefix}dater-female-block:before,
-.#{$ionicons-prefix}dater-complaint-icon:before,
-.#{$ionicons-prefix}dater-block2:before,
-.#{$ionicons-prefix}dates-icon:before,
-.#{$ionicons-prefix}dater-back-icon:before,
-.#{$ionicons-prefix}dater-delay-icon:before,
-.#{$ionicons-prefix}dater-block:before,
-.#{$ionicons-prefix}dater-birth-icon:before,
-.#{$ionicons-prefix}dater-blocked-date-icon:before,
-.#{$ionicons-prefix}dater-number:before,
-.#{$ionicons-prefix}dater-fb2:before,
-.#{$ionicons-prefix}dater-name-icon:before,
-.#{$ionicons-prefix}dater-sex-icon:before,
-.#{$ionicons-prefix}dater-sms-icon:before,
 .#{$ionicons-prefix}alert:before,
 .#{$ionicons-prefix}alert-circled:before,
 .#{$ionicons-prefix}android-add:before,
@@ -307,6 +252,7 @@
 .#{$ionicons-prefix}dater-swipe-right:before,
 .#{$ionicons-prefix}dater-tap:before,
 .#{$ionicons-prefix}dater-time:before,
+.#{$ionicons-prefix}dater-wink:before,
 .#{$ionicons-prefix}disc:before,
 .#{$ionicons-prefix}document:before,
 .#{$ionicons-prefix}document-text:before,
@@ -841,61 +787,6 @@
 {
   @extend .ion;
 }
-.#{$ionicons-prefix}dater-accept-calls:before { content: $ionicon-var-dater-accept-calls; }
-.#{$ionicons-prefix}dater-add-phone:before { content: $ionicon-var-dater-add-phone; }
-.#{$ionicons-prefix}dater-aim:before { content: $ionicon-var-dater-aim; }
-.#{$ionicons-prefix}dater-gender-match:before { content: $ionicon-var-dater-gender-match; }
-.#{$ionicons-prefix}dater-lock:before { content: $ionicon-var-dater-lock; }
-.#{$ionicons-prefix}dater-not-accept-calls:before { content: $ionicon-var-dater-not-accept-calls; }
-.#{$ionicons-prefix}dater-secure-calls:before { content: $ionicon-var-dater-secure-calls; }
-.#{$ionicons-prefix}dater-voice-to-chat:before { content: $ionicon-var-dater-voice-to-chat; }
-.#{$ionicons-prefix}dater-emptyscreen-saidyes:before { content: $ionicon-var-dater-emptyscreen-saidyes; }
-.#{$ionicons-prefix}dater-yes:before { content: $ionicon-var-dater-yes; }
-.#{$ionicons-prefix}dater-call-animation:before { content: $ionicon-var-dater-call-animation; }
-.#{$ionicons-prefix}dater-call-animation2:before { content: $ionicon-var-dater-call-animation2; }
-.#{$ionicons-prefix}dater-gentle:before { content: $ionicon-var-dater-gentle; }
-.#{$ionicons-prefix}dater-legasy:before { content: $ionicon-var-dater-legasy; }
-.#{$ionicons-prefix}dater-nosex:before { content: $ionicon-var-dater-nosex; }
-.#{$ionicons-prefix}dater-polite:before { content: $ionicon-var-dater-polite; }
-.#{$ionicons-prefix}dater-notification-icon2:before { content: $ionicon-var-dater-notification-icon2; }
-.#{$ionicons-prefix}dater-notification-icon1:before { content: $ionicon-var-dater-notification-icon1; }
-.#{$ionicons-prefix}dater-call-cancel:before { content: $ionicon-var-dater-call-cancel; }
-.#{$ionicons-prefix}dater-call:before { content: $ionicon-var-dater-call; }
-.#{$ionicons-prefix}dater-continue:before { content: $ionicon-var-dater-continue; }
-.#{$ionicons-prefix}dater-match:before { content: $ionicon-var-dater-match; }
-.#{$ionicons-prefix}dater-emptyscreen-likes:before { content: $ionicon-var-dater-emptyscreen-likes; }
-.#{$ionicons-prefix}dater-emptyscreen-mess:before { content: $ionicon-var-dater-emptyscreen-mess; }
-.#{$ionicons-prefix}dater-female-profile:before { content: $ionicon-var-dater-female-profile; }
-.#{$ionicons-prefix}dater-photo-icon2:before { content: $ionicon-var-dater-photo-icon2; }
-.#{$ionicons-prefix}dater-ignor-icon:before { content: $ionicon-var-dater-ignor-icon; }
-.#{$ionicons-prefix}block_icon:before { content: $ionicon-var-block_icon; }
-.#{$ionicons-prefix}dater-male-profile-icon:before { content: $ionicon-var-dater-male-profile-icon; }
-.#{$ionicons-prefix}dater-female-profile-icon:before { content: $ionicon-var-dater-female-profile-icon; }
-.#{$ionicons-prefix}mess_icon:before { content: $ionicon-var-mess_icon; }
-.#{$ionicons-prefix}dislike_icon2:before { content: $ionicon-var-dislike_icon2; }
-.#{$ionicons-prefix}like_icon2:before { content: $ionicon-var-like_icon2; }
-.#{$ionicons-prefix}dater-pending-icon:before { content: $ionicon-var-dater-pending-icon; }
-.#{$ionicons-prefix}dater-approved-icon:before { content: $ionicon-var-dater-approved-icon; }
-.#{$ionicons-prefix}dater-moderator-icon2:before { content: $ionicon-var-dater-moderator-icon2; }
-.#{$ionicons-prefix}dater-rejected-icon:before { content: $ionicon-var-dater-rejected-icon; }
-.#{$ionicons-prefix}dater-sent-icon:before { content: $ionicon-var-dater-sent-icon; }
-.#{$ionicons-prefix}dater-female-noph:before { content: $ionicon-var-dater-female-nophoto; }
-.#{$ionicons-prefix}dater-male-nophot:before { content: $ionicon-var-dater-male-nophoto; }
-.#{$ionicons-prefix}dater-male-block:before { content: $ionicon-var-dater-male-block; }
-.#{$ionicons-prefix}dater-female-block:before { content: $ionicon-var-dater-female-block; }
-.#{$ionicons-prefix}dater-complaint-icon:before { content: $ionicon-var-dater-complaint-icon; }
-.#{$ionicons-prefix}dater-block2:before { content: $ionicon-var-dater-block2; }
-.#{$ionicons-prefix}dates-icon:before { content: $ionicon-var-dates-icon; }
-.#{$ionicons-prefix}dater-back-icon:before { content: $ionicon-var-dater-back-icon; }
-.#{$ionicons-prefix}dater-delay-icon:before { content: $ionicon-var-dater-delay-icon; }
-.#{$ionicons-prefix}dater-block:before { content: $ionicon-var-dater-block; }
-.#{$ionicons-prefix}dater-birth-icon:before { content: $ionicon-var-dater-birth-icon; }
-.#{$ionicons-prefix}dater-blocked-date-icon:before { content: $ionicon-var-dater-blocked-date-icon; }
-.#{$ionicons-prefix}dater-number:before { content: $ionicon-var-dater-number; }
-.#{$ionicons-prefix}dater-fb2:before { content: $ionicon-var-dater-fb2; }
-.#{$ionicons-prefix}dater-name-icon:before { content: $ionicon-var-dater-name-icon; }
-.#{$ionicons-prefix}dater-sex-icon:before { content: $ionicon-var-dater-sex-icon; }
-.#{$ionicons-prefix}dater-sms-icon:before { content: $ionicon-var-dater-sms-icon; }
 .#{$ionicons-prefix}alert:before { content: $ionicon-var-alert; }
 .#{$ionicons-prefix}alert-circled:before { content: $ionicon-var-alert-circled; }
 .#{$ionicons-prefix}android-add:before { content: $ionicon-var-android-add; }
@@ -1146,6 +1037,7 @@
 .#{$ionicons-prefix}dater-swipe-right:before { content: $ionicon-var-dater-swipe-right; }
 .#{$ionicons-prefix}dater-tap:before { content: $ionicon-var-dater-tap; }
 .#{$ionicons-prefix}dater-time:before { content: $ionicon-var-dater-time; }
+.#{$ionicons-prefix}dater-wink:before { content: $ionicon-var-dater-wink; }
 .#{$ionicons-prefix}disc:before { content: $ionicon-var-disc; }
 .#{$ionicons-prefix}document:before { content: $ionicon-var-document; }
 .#{$ionicons-prefix}document-text:before { content: $ionicon-var-document-text; }

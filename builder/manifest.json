@@ -1,5 +1,5 @@
 {
-  "build_hash": "cee6f296475c669d7d5e800e5e1d9d85",
+  "build_hash": "7c551c5ee8cd4bfe1adf7b37a014404c",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -1003,6 +1003,10 @@
     {
       "code": "0xf16e",
       "name": "dater-time"
+    },
+    {
+      "code": "0xf177",
+      "name": "dater-wink"
     },
     {
       "code": "0xf12d",

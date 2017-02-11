@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-2-12: Created with FontForge (http://fontforge.org)
+2017-2-11: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20150827 at Fri Feb 12 05:28:26 2016
- By ilnur
-Copyright (c) 2016, ilnur
+Created by FontForge 20170104 at Sat Feb 11 14:52:39 2017
+ By Oleg
+Copyright (c) 2017, Oleg
 </metadata>
 <defs>
 <font id="Ionicons" horiz-adv-x="448" >
@@ -688,6 +688,9 @@ c3 -15 0 -6 16 -37zM105 391c1 3 1 5 1 8c0 16 -13 29 -29 29s-29 -13 -29 -29c0 -10
     <glyph glyph-name="ion-dater-time" unicode="&#xf16e;" horiz-adv-x="508" 
 d="M433 372c48 -48 75 -111 75 -179s-26 -132 -74 -180s-112 -74 -180 -74s-132 26 -180 74s-74 112 -74 180s26 131 74 179s112 74 180 74s131 -26 179 -74zM417 29c44 44 68 102 68 164s-24 119 -68 163s-101 67 -163 67s-119 -23 -163 -67s-68 -101 -68 -163
 s24 -120 68 -164s101 -67 163 -67s119 23 163 67zM271 186l70 -70c6 -6 6 -15 0 -21s-16 -6 -22 0l-71 71l-1 1c-4 3 -6 7 -6 12v123c0 8 7 15 15 15s15 -7 15 -15v-116z" />
+    <glyph glyph-name="ion-dater-wink" unicode="&#xf177;" horiz-adv-x="491" 
+d="M0 192c0 135 110 245 245 245s246 -110 246 -245s-111 -245 -246 -245s-245 110 -245 245zM109 251c0 21 17 37 38 37s37 -16 37 -37s-16 -38 -37 -38s-38 17 -38 38zM368 277c-26 -3 -60 -23 -75 -44s57 2 86 -9zM158 113c9 -37 37 -61 87 -60c17 1 41 12 54 22z
+M130 105h3c14 0 31 10 38 23z" />
     <glyph glyph-name="ion-disc" unicode="&#xf12d;" 
 d="M224 289c54 0 97 -43 97 -97s-43 -97 -97 -97s-97 43 -97 97s43 97 97 97zM224 148c24 0 44 20 44 44s-20 44 -44 44s-44 -20 -44 -44s20 -44 44 -44zM224 416c124 0 224 -100 224 -224s-100 -224 -224 -224s-224 100 -224 224s100 224 224 224zM224 69
 c68 0 123 55 123 123s-55 123 -123 123s-123 -55 -123 -123s55 -123 123 -123z" />
