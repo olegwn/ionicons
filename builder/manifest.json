@@ -1,5 +1,5 @@
 {
-  "build_hash": "432726142c3b142e9f1c3f9314cff21a",
+  "build_hash": "95ede1dea5d6c0d85261991cbe40f47d",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -999,10 +999,6 @@
     {
       "code": "0xf16b",
       "name": "dater-refresh"
-    },
-    {
-      "code": "0xf17e",
-      "name": "dater-sent-icon"
     },
     {
       "code": "0xf16c",
