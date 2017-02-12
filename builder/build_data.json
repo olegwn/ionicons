@@ -1,5 +1,5 @@
 {
-  "build_hash": "01587fc950e3d6719e6d4748d70694e1",
+  "build_hash": "14261b319e10300bc2f2a1474545b898",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -897,8 +897,8 @@
       "name": "dater-complaint-icon"
     },
     {
-      "code": "0xf17c",
-      "name": "dater-continue-icon"
+      "code": "0xf14c",
+      "name": "dater-continue"
     },
     {
       "code": "0xf15b",
