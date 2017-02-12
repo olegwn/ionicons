@@ -1,5 +1,5 @@
 {
-  "build_hash": "868b957054eab2cd4b785baa08a4bbe9",
+  "build_hash": "e6da127e261eb87a4543aa297b5eb7ff",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -897,6 +897,10 @@
       "name": "dater-call-icon"
     },
     {
+      "code": "0xf193",
+      "name": "dater-chats-two-bubbles"
+    },
+    {
       "code": "0xf183",
       "name": "dater-complaint-icon"
     },
@@ -935,6 +939,14 @@
     {
       "code": "0xf151",
       "name": "dater-email-icon"
+    },
+    {
+      "code": "0xf195",
+      "name": "dater-emptyscreen-likes"
+    },
+    {
+      "code": "0xf194",
+      "name": "dater-emptyscreen-likes-icon"
     },
     {
       "code": "0xf16f",
@@ -1057,6 +1069,10 @@
       "name": "dater-notification-bell"
     },
     {
+      "code": "0xf196",
+      "name": "dater-number"
+    },
+    {
       "code": "0xf18e",
       "name": "dater-pending-icon"
     },
@@ -1093,6 +1109,10 @@
       "name": "dater-silence"
     },
     {
+      "code": "0xf197",
+      "name": "dater-sms-icon"
+    },
+    {
       "code": "0xf174",
       "name": "dater-swipe-left"
     },
@@ -1115,6 +1135,10 @@
     {
       "code": "0xf178",
       "name": "dater-wink2"
+    },
+    {
+      "code": "0xf198",
+      "name": "dater-yes-icon"
     },
     {
       "code": "0xf12d",
