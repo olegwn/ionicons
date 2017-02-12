@@ -1,5 +1,5 @@
 {
-  "build_hash": "1b2b2d2612f96d8a9c6388745e5204dc",
+  "build_hash": "01587fc950e3d6719e6d4748d70694e1",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -967,6 +967,10 @@
     {
       "code": "0xf188",
       "name": "dater-gentle-icon"
+    },
+    {
+      "code": "0xf145",
+      "name": "dater-geo-map"
     },
     {
       "code": "0xf189",
