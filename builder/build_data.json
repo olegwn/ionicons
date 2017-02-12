@@ -1,5 +1,5 @@
 {
-  "build_hash": "0690ab9cd02721b9012c44579b900ccb",
+  "build_hash": "1b2b2d2612f96d8a9c6388745e5204dc",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -849,10 +849,6 @@
       "name": "dater-addphoto"
     },
     {
-      "code": "0xf14e",
-      "name": "dater-addphoto-icon"
-    },
-    {
       "code": "0xf17e",
       "name": "dater-approved-icon"
     },
@@ -865,16 +861,8 @@
       "name": "dater-back-icon"
     },
     {
-      "code": "0xf14f",
-      "name": "dater-back-icon-dark"
-    },
-    {
       "code": "0xf180",
       "name": "dater-birth-icon"
-    },
-    {
-      "code": "0xf15a",
-      "name": "dater-block"
     },
     {
       "code": "0xf179",
@@ -933,16 +921,8 @@
       "name": "dater-dislike-2"
     },
     {
-      "code": "0xf150",
-      "name": "dater-dislike-con"
-    },
-    {
       "code": "0xf15e",
       "name": "dater-email"
-    },
-    {
-      "code": "0xf151",
-      "name": "dater-email-icon"
     },
     {
       "code": "0xf195",
@@ -961,10 +941,6 @@
       "name": "dater-fb"
     },
     {
-      "code": "0xf152",
-      "name": "dater-fb-icon"
-    },
-    {
       "code": "0xf186",
       "name": "dater-fb2"
     },
@@ -979,10 +955,6 @@
     {
       "code": "0xf173",
       "name": "dater-female-block"
-    },
-    {
-      "code": "0xf153",
-      "name": "dater-female-icon"
     },
     {
       "code": "0xf170",
@@ -1013,10 +985,6 @@
       "name": "dater-like-2"
     },
     {
-      "code": "0xf154",
-      "name": "dater-like-icon"
-    },
-    {
       "code": "0xf164",
       "name": "dater-location"
     },
@@ -1043,10 +1011,6 @@
     {
       "code": "0xf166",
       "name": "dater-mess"
-    },
-    {
-      "code": "0xf156",
-      "name": "dater-mess-icon"
     },
     {
       "code": "0xf167",
@@ -1133,10 +1097,6 @@
       "name": "dater-time"
     },
     {
-      "code": "0xf177",
-      "name": "dater-wink"
-    },
-    {
       "code": "0xf178",
       "name": "dater-wink2"
     },
@@ -1211,10 +1171,6 @@
     {
       "code": "0xf278",
       "name": "female"
-    },
-    {
-      "code": "0xf14c",
-      "name": "female-dater"
     },
     {
       "code": "0xf134",
@@ -2879,10 +2835,6 @@
     {
       "code": "0xf230",
       "name": "social-facebook-outline"
-    },
-    {
-      "code": "0xf145",
-      "name": "social-fb-dater"
     },
     {
       "code": "0xf34d",
