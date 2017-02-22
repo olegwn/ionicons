@@ -1,5 +1,5 @@
 {
-  "build_hash": "14261b319e10300bc2f2a1474545b898",
+  "build_hash": "b27073a269d5ba272ef7f1b66c0ca91f",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -883,6 +883,10 @@
     {
       "code": "0xf182",
       "name": "dater-call-icon"
+    },
+    {
+      "code": "0xf14e",
+      "name": "dater-cancel-chat"
     },
     {
       "code": "0xf199",
