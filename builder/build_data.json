@@ -1,5 +1,5 @@
 {
-  "build_hash": "b27073a269d5ba272ef7f1b66c0ca91f",
+  "build_hash": "82c318c6bbba4ca01479409b7e881ec6",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -1087,6 +1087,10 @@
     {
       "code": "0xf197",
       "name": "dater-sms-icon"
+    },
+    {
+      "code": "0xf14f",
+      "name": "dater-star-user"
     },
     {
       "code": "0xf174",
